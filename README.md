@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8af847a3-58b6-4a8d-bc68-9dc749f88188" alt="Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/90f63033-4257-45fc-bda0-d4ae8c6aad68" alt="Banner" width="100%" />
 
 </div>
-
-<br/>
 
 <div align="center">
   <h1>Hi there, I'm Christian Serrano 👋</h1>
