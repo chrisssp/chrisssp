@@ -1,3 +1,9 @@
+<div align="right">
+  <a href="README.es.md">
+    <img src="https://img.shields.io/badge/Leer%20en-Español-informational?style=flat&logo=github" alt="Español" />
+  </a>
+</div>
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/90f63033-4257-45fc-bda0-d4ae8c6aad68" alt="Banner" width="100%" />
 </div>
