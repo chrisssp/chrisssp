@@ -27,14 +27,14 @@
 I am a Software Engineer specialized in **Web and Mobile Development** with robust **Backend Systems**. I thrive in Linux environments and prioritize writing maintainable, scalable and high-performance code.
 
 * 🔭 I’m currently working on **AI-driven solutions** for behavior finance and healthcare.
-* 🐧 I develop on **Linux** using **VS Code**.
+* 🐧 I develop on **Linux**.
 * ⚡ Methodology: **Scrum**, **Kanban** & **Design Thinking** practitioner.
 
 ---
 
 ### 💼 Professional Impact
 
-#### 🏗️ 7D-Compass (Seven D Construction)
+#### 🏗️ [7D-Compass](https://7d-compass.com/) (Seven D Construction)
 * **Impact:** Automated financial reconciliation reducing manual processing time by **95%** (from 12h to <30m weekly).
 * **Scale:** Managed and audited **\$2.3M USD** in transactions with custom validation logic.
 * **Tech:** Angular, Node.js (Express), PostgreSQL (PostGIS).
@@ -43,18 +43,22 @@ I am a Software Engineer specialized in **Web and Mobile Development** with robu
 
 ### 🚀 Featured Projects
 
-#### 🐢 Azkali (Talent Land 2026)
+#### 🐢 [Azkali](https://azkali-landing.vercel.app/) (Talent Land 2026)
 > *Behavioral AI copilot designed to mitigate impulsive spending in Gen Z.*
 * **Hackathon:** Built in a **48-hour sprint** at Talent Land CDMX.
 * **Innovation:** Real-time impulsivity analysis and opportunity cost translation.
 * **Tech:** React Native, Gemini 2.5 Flash-Lite, FastAPI, Supabase.
 
-#### 🏥 IAPEX (AI for Patient Location)
+#### 🏥 [IAPEX](https://github.com/aescobar80/IAPEX_APP-WEB) (AI for Patient Location)
 > *Inteligencia Artificial para la localización de pacientes extraviados en instituciones de salud.*
 * **Impact:** Enables hospitals to identify vulnerable patients quickly using hybrid information fusion.
 * **Tech:** Angular, Ionic, Spring Boot, Django (AI), PostgreSQL.
 
-#### 💳 Punto Fiel
+#### 🩺 [dabetai](https://github.com/dabetai-org/dabetai-mobileapp)
+> *Preventive platform for diabetes that connects wearables with medical supervision.*
+* **Tech:** React Native, NestJS, Expo, Python, Wearables.
+
+#### 💳 [Punto Fiel](https://github.com/chrisssp/puntofiel-mobileapp)
 > *Loyalty platform for local businesses with QR-based rewards.*
 * **Tech:** React Native, Expo, Supabase (RLS), TanStack Query.
 
