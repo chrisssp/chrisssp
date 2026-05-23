@@ -10,56 +10,60 @@
 
 ---
 
-Ingeniero de software enfocado en ecosistemas web y móviles, entornos Linux y arquitecturas escalables.
+¡Hola! Soy Christian, ingeniero de software mexicano que construye apps web y móviles con debilidad por el backend limpio.
+
+Trabajo desde Linux, me obsesiona automatizar procesos que de otra forma serían infiernos manuales en Excel, y escribo código que no haga llorar al siguiente desarrollador. Fuera del teclado me encuentras en hackathones (Talent Land es lo mío), aprendiendo piano o construyendo artefactos de redstone absurdamente complejos en Minecraft.
 
 ---
 
 ## Experiencia
 
-**Ingeniero de software intern** · Seven D Construction · Ene–Abr 2026
-[7D-Compass](https://chrisssp.vercel.app/es/projects/7dcompass) — Automatización de conciliación financiera, reduciendo el tiempo manual en 95%. Motor de auditoría para $2.3M USD.
+**Ingeniero de software intern** @ Seven D Construction
+*Ene – Abr 2026 · Chicago, IL / México*
 
-**Líder de equipo** · Talent Land 2026 · Banco Azteca · Abr 2026
-[Azkali](https://chrisssp.vercel.app/es/projects/azkali) — Copiloto de IA conductual para gasto impulsivo en Gen Z. Construido en 48h.
+- Evolucioné [7D-Compass](https://chrisssp.vercel.app/es/projects/7dcompass), plataforma Angular/Node.js/PostgreSQL que redujo la conciliación financiera en **95%** (de 12h a menos de 30 min/semana)
+- Construí un motor de auditoría centralizado que concilió **$2.3M USD** en transacciones
+- Mejoré el rendimiento del frontend **3.2x** y reforcé seguridad con JWT/Bcrypt (OWASP)
 
-**4.º lugar y líder de equipo** · Talent Land 2025 · Coppel · Abr 2025
-[Coppel Nexus](https://chrisssp.vercel.app/es/projects/coppel-nexus) — Ecosistema de referidos gamificado para expansión corporativa.
+**Líder de equipo** @ Banco Azteca — Talent Land 2026
+*Abr 2026 · Santa Fe, CDMX*
 
-**Ingeniero de software intern** · PepsiCo · May–Ago 2024
-[MTRPA](https://chrisssp.vercel.app/es/projects/mtrpa) — Web app centralizada reemplazando Excel legacy, procesando +100k registros.
+- Lideré [Azkali](https://chrisssp.vercel.app/es/projects/azkali) en un sprint de **48h**: un copiloto de IA que ayuda a la Gen Z a repensar sus gastos impulsivos traduciendo pesos en horas de trabajo
+- Análisis de impulsividad en tiempo real con Gemini 2.5 Flash-Lite
+- Arquitecté un ecosistema React Native + Supabase con gamificación
 
-**Desarrollador full stack** · Flack's Barber Shop · Oct 2022–Abr 2024
-[Flack's Cut & Connect](https://chrisssp.vercel.app/es/projects/flacks-cc) — Ecosistema digital completo automatizando el 100% de las citas.
+**4.º lugar y líder de equipo** @ Coppel — Talent Land 2025
+*Abr 2025 · Guadalajara, Jalisco*
+
+- Construí [Coppel Nexus](https://chrisssp.vercel.app/es/projects/coppel-nexus), plataforma gamificada de referidos para equipos de adquisición en campo (React Native / Node.js)
+- Entregamos en 72h con XP y Kanban
+
+**Ingeniero de software intern** @ PepsiCo
+*May – Ago 2024 · Azcapotzalco, CDMX (Remoto)*
+
+- Reemplacé flujos legacy en Excel con [MTRPA](https://chrisssp.vercel.app/es/projects/mtrpa), una web app Angular/MongoDB
+- Procesé **+100k registros** automatizados — cero errores manuales
+- Reduje el tiempo de procesamiento en **70%**
+
+**Desarrollador full stack (Freelance)** @ Flack's Barber Shop
+*Oct 2022 – Abr 2024 · Córdoba, Veracruz*
+
+- Lancé [Flack's Cut & Connect](https://chrisssp.vercel.app/es/projects/flacks-cc), un ecosistema web + móvil completo
+- **100% de las citas** pasaron de llamadas telefónicas a agendamiento automatizado
+- Construí una API REST Node.js/PostgreSQL para inventario y ventas
 
 ---
 
 ## Proyectos
 
-[IAPEX](https://chrisssp.vercel.app/es/projects/iapex) — IA híbrida para localizar pacientes extraviados en instituciones de salud.
-[dabetai](https://chrisssp.vercel.app/es/projects/dabetai) — Plataforma preventiva que conecta wearables con supervisión médica.
-[PuntoFiel](https://chrisssp.vercel.app/es/projects/puntofiel) — Plataforma de fidelización con recompensas QR para negocios locales.
+- **[IAPEX](https://chrisssp.vercel.app/es/projects/iapex)** — IA híbrida para localizar pacientes extraviados fusionando reconocimiento facial con búsqueda textual. Angular, Ionic, Spring Boot, Django, PostgreSQL.
+- **[dabetai](https://chrisssp.vercel.app/es/projects/dabetai)** — Plataforma preventiva de diabetes conectada a wearables. Predice retinopatía y nefropatía en tiempo real. React Native, NestJS, FastAPI, Python.
+- **[PuntoFiel](https://chrisssp.vercel.app/es/projects/puntofiel)** — Plataforma de fidelización QR para negocios locales. Clientes ganan recompensas, dueños administran personal y promociones. React Native, Expo, Supabase (RLS), TanStack Query.
 
 ---
 
 ## Stack tecnológico
 
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
