@@ -10,9 +10,9 @@
 
 ---
 
-¡Hola! Soy Christian, ingeniero de software mexicano que construye apps web y móviles con debilidad por el backend limpio.
+Soy Christian, ingeniero de software mexicano que construye productos web y móviles.
 
-Trabajo desde Linux, me obsesiona automatizar procesos que de otra forma serían infiernos manuales en Excel, y escribo código que no haga llorar al siguiente desarrollador. Fuera del teclado me encuentras en hackathones (Talent Land es lo mío), aprendiendo piano o construyendo artefactos de redstone absurdamente complejos en Minecraft.
+Trabajo desde Linux, me obsesiona automatizar procesos que de otra forma serían exceles gigantescos y escribo código que no haga llorar al siguiente desarrollador. Fuera del teclado me encuentras en hackathones, aprendiendo piano o construyendo artefactos de redstone absurdamente complejos en Minecraft.
 
 ---
 
