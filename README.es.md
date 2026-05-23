@@ -1,1 +1,65 @@
-PGRpdiBhbGlnbj0icmlnaHQiPgogIDxhIGhyZWY9IlJFQURNRS5tZCI+CiAgICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9SZWFkJTIwaW4tRW5nbGlzaC1pbmZvcm1hdGlvbmFsP3N0eWxlPWZsYXQmbG9nbz1naXRodWIiIGFsdD0iRW5nbGlzaCIgLz4KICA8L2E+CjwvZGl2PgoKPGRpdiBhbGlnbj0iY2VudGVyIj4KICA8aW1nIHdpZHRoPSIxNTAwIiBoZWlnaHQ9IjQwMCIgYWx0PSJiYW5uZXIiIHNyYz0iaHR0cHM6Ly9naXRodWIuY29tL3VzZXItYXR0YWNobWVudHMvYXNzZXRzL2MxNTgxNDFlLWZiYWItNDA2ZS1hYTkxLWE2MmIxMGVlNGRhMCIgLz4KPC9kaXY+CgotLS0KCkFTw61zIGxvcyBxdWUgbG9zIGJhZGdlcyBkZWwgYmFubmVyIHkgY29udGllbmVuIGxhIGluZm8gZGUgY29udGFjdG8geSBwZXJmaWwsIGVzdG8gZXMgbG8gcXVlIGhhZ28uCgqJCsOjbWVuYSBkZSBzYWx1ZCB5IHBlcmRlciDDum5lc2UuCgqJCsOjbWVuYSBkZSBzYWx1ZCB5IHBlcmRlciDDum5lc2UuCgpJbmduaWVybyBkZSBzb2Z0d2FyZSBlbmZvY2FkbyBlbiBlY29zaXN0ZW1hcyB3ZWIgeSBtw7N2aWxlcywgZW50b3Jub3MgTGludXggeSBhcnF1aXRlY3R1cmFzIGVzY2FsYWJsZXMuCgotLS0KCiMjIEV4cGVyaWVuY2lhCioqSW5nZW5pZXJvIGRlIHNvZnR3YXJlIGludGVybioqIMK3IFNldmVuIEQgQ29uc3RydWN0aW9uIMK3IEVuZeKAk0FiciAyMDI2Cls3RC1Db21wYXNzXShodHRwczovL2Nocmlzc3NwLnZlcmNlbC5hcHAvZXMvcHJvamVjdHMvN2Rjb21wYXNzKSDigJQgQXV0b21hdGl6YWNpw7NuIGRlIGNvbmNpbGlhY2nDs24gZmluYW5jaWVyYSwgcmVkdWNpZW5kbyBlbCB0aWVtcG8gbWFudWFsIGVuIDk1JS4gTW90b3IgZGUgYXVkaXRvcsOtYSBwYXJhICQyLjNNIFVTRC4KCioqTMOtZGVyIGRlIGVxdWlwbyoqIMK3IFRhbGVudCBMYW5kIDIwMjYgwrcgQmFuY28gQXp0ZWNhIMK3IEFiciAyMDI2CltBemthbGldKGh0dHBzOi8vY2hyaXNzc3AudmVyY2VsLmFwcC9lcy9wcm9qZWN0cy9hemthbGkpIOKAlCBDb3BpbG90byBkZSBJQSBjb25kdWN0dWFsIHBhcmEgZ2FzdG8gaW1wdWxzaXZvIGVuIEdlbiBaLiBDb25zdHJ1aWRvIGVuIDQ4aC4KCioqNC4gbHVnYXIgeSBsw61kZXIgZGUgZXF1aXBvKiogwrcgVGFsZW50IExhbmQgMjAyNSDCtyBDb3BwZWwgwrcgQWJyIDIwMjUKW0NvcHBlbCBOZXh1c10oaHR0cHM6Ly9jaHJpc3NzcC52ZXJjZWwuYXBwL2VzL3Byb2plY3RzL2NvcHBlbC1uZXh1cykg4oCUIEVjb3Npc3RlbWEgZGUgcmVmZXJpZG9zIGdhbWlmaWNhZG8gcGFyYSBleHBhbnNpw7NuIGNvcnBvcmF0aXZhLgoKKipJbmdlbmllcm8gZGUgc29mdHdhcmUgaW50ZXJuKiogwrcgUGVwc2lDbyDCtyBNYXnigJNBdWcgMjAyNApbTVRSUEFdKGh0dHBzOi8vY2hyaXNzc3AudmVyY2VsLmFwcC9lcy9wcm9qZWN0cy9tdHJwYSkg4oCUIHdlYiBhcHAgY2VudHJhbGl6YWRhIHJlZW1wbGF6YW5kbyBFeGNlbCBsZWdhY3ksIHByb2Nlc2FuZG8gKzEwMCByZWdpc3Ryb3MuCgoqKkRlc2Fycm9sbGFkb3IgZnVsbCBzdGFjayoqIMK3IEZsYWNrJ3MgQmFyYmVyIFNob3AgwrcgT2N0IDIwMjLigJNBYnIgMjAyNApbRmxhY2sncyBDdXQgJiBDb25uZWN0XShodHRwczovL2Nocmlzc3NwLnZlcmNlbC5hcHAvZXMvcHJvamVjdHMvZmxhY2tzLWNjKSDigJQgZWNvc2lzdGVtYSBkaWdpdGFsIGNvbXBsZXRvIGF1dG9tYXRpemFuZG8gZWwgMTAwJSBkZSBsYXMgY2l0YXMuCgotLS0KCiMjIFByb3llY3RvcwoKW0lBUEVYXShodHRwczovL2Nocmlzc3NwLnZlcmNlbC5hcHAvZXMvcHJvamVjdHMvaWFwZXgpIOKAlCBJQSBow61icmlkYSBwYXJhIGxvY2FsaXphciBwYWNpZW50ZXMgZXh0cmF2aWFkb3MgZW4gaW5zdGl0dWNpb25lcyBkZSBzYWx1ZC4KW2RhYmV0YWldKGh0dHBzOi8vY2hyaXNzc3AudmVyY2VsLmFwcC9lcy9wcm9qZWN0cy9kYWJldGFpKSDigJQgUGxhdGFmb3JtYSBwcmV2ZW50aXZhIHF1ZSBjb25lY3RhIHdlYXJhYmxlcyBjb24gc3VwZXJ2aXNpw7NuIG3DqWRpY2EuCltQdW50b0ZpZWxdKGh0dHBzOi8vY2hyaXNzc3AudmVyY2VsLmFwcC9lcy9wcm9qZWN0cy9wdW50b2ZpZWwpIOKAlCBQbGF0YWZvcm1hIGRlIGZlbGlkaXphY2nDs24gY29uIHJlY29tcGVuc2FzIFFSIHBhcmEgbmVnb2Npb3MgbG9jYWxlcy4KCi0tLQoKIyMgU3RhY2sgdGVjbm9sw7NnaWNvCgo8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9SZWFjdF9OYXRpdmUtMjAyMzJBP3N0eWxlPWZsYXQmbG9nbz1yZWFjdCZsb2dvQ29sb3I9NjFEQUZCIiAvPgo8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9Jb25pYy0zODgwRkY/c3R5bGU9ZmxhdCZsb2dvPWlvbmljJmxvZ29Db2xvcj13aGl0ZSIgLz4KPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvQW5ndWxhci1ERDAwMzE/c3R5bGU9ZmxhdCZsb2dvPWFuZ3VsYXImbG9nb0NvbG9yPXdoaXRlIiAvPgo8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9Bc3Ryby1CQzUyRUU/c3R5bGU9ZmxhdCZsb2dvPWFzdHJvJmxvZ29Db2xvcj13aGl0ZSIgLz4KPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvVHlwZVNjcmlwdC0zMTc4QzY/c3R5bGU9ZmxhdCZsb2dvPXR5cGVzY3JpcHQmbG9nb0NvbG9yPXdoaXRlIiAvPgo8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9UYWlsd2luZF9DU1MtMDZCNkQ0P3N0eWxlPWZsYXQmbG9nbz10YWlsd2luZGNzcyZsb2dvQ29sb3I9d2hpdGUiIC8+Cjxici8+CjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL05vZGUuanMtMzM5OTMzP3N0eWxlPWZsYXQmbG9nbz1ub2RlanMmbG9nb0NvbG9yPXdoaXRlIiAvPgo8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9GYXN0QVBJLTAwOTY4OD9zdHlsZT1mbGF0JmxvZ289ZmFzdGFwaSZsb2dvQ29sb3I9d2hpdGUiIC8+CjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1NwcmluZ19Cb290LTZEQjMzRj9zdHlsZT1mbGF0JmxvZ289c3ByaW5nYm9vdCZsb2dvQ29sb3I9d2hpdGUiIC8+CjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0RqYW5nby0wOTJFMjA/c3R5bGU9ZmxhdCZsb2dvPWRqYW5nbyZsb2dvQ29sb3I9d2hpdGUiIC8+CjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1B5dGhvbi0zNzc2QUI/c3R5bGU9ZmxhdCZsb2dvPXB5dGhvbiZsb2dvQ29sb3I9d2hpdGUiIC8+CjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0phdmEtRUQ4QjAwP3N0eWxlPWZsYXQmbG9nbz1vcGVuamRrJmxvZ29Db2xvcj13aGl0ZSIgLz4KPGJyLz4KPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUG9zdGdyZVNRTC00MTY5RTE/c3R5bGU9ZmxhdCZsb2dvPXBvc3RncmVzcWwmbG9nb0NvbG9yPXdoaXRlIiAvPgo8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9TdXBhYmFzZS0zRkNGTkU/c3R5bGU9ZmxhdCZsb2dvPXN1cGFiYXNlJmxvZ29Db2xvcj13aGl0ZSIgLz4KPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvRG9ja2VyLTI0OTZFRD9zdHlsZT1mbGF0JmxvZ289ZG9ja2VyJmxvZ29Db2xvcj13aGl0ZSIgLz4KPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTGludXgtRkNDNjI0P3N0eWxlPWZsYXQmbG9nbz1saW51eCZsb2dvQ29sb3I9YmxhY2siIC8+CjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL01vbmdvREItNDdBMjQ4P3N0eWxlPWZsYXQmbG9nbz1tb25nb2RiJmxvZ29Db2xvcj13aGl0ZSIgLz4KPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvR2l0LUYwNTAzMj9zdHlsZT1mbGF0JmxvZ289Z2l0JmxvZ29Db2xvcj13aGl0ZSIgLz4K
+<div align="right">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/Read%20in-English-informational?style=flat&logo=github" alt="English" />
+  </a>
+</div>
+
+<div align="center">
+  <img width="1500" height="400" alt="banner" src="https://github.com/user-attachments/assets/c158141e-fbab-406e-aa91-a62b10ee4da0" />
+</div>
+
+---
+
+Ingeniero de software enfocado en ecosistemas web y móviles, entornos Linux y arquitecturas escalables.
+
+---
+
+## Experiencia
+
+**Ingeniero de software intern** · Seven D Construction · Ene–Abr 2026
+[7D-Compass](https://chrisssp.vercel.app/es/projects/7dcompass) — Automatización de conciliación financiera, reduciendo el tiempo manual en 95%. Motor de auditoría para $2.3M USD.
+
+**Líder de equipo** · Talent Land 2026 · Banco Azteca · Abr 2026
+[Azkali](https://chrisssp.vercel.app/es/projects/azkali) — Copiloto de IA conductual para gasto impulsivo en Gen Z. Construido en 48h.
+
+**4.º lugar y líder de equipo** · Talent Land 2025 · Coppel · Abr 2025
+[Coppel Nexus](https://chrisssp.vercel.app/es/projects/coppel-nexus) — Ecosistema de referidos gamificado para expansión corporativa.
+
+**Ingeniero de software intern** · PepsiCo · May–Ago 2024
+[MTRPA](https://chrisssp.vercel.app/es/projects/mtrpa) — Web app centralizada reemplazando Excel legacy, procesando +100k registros.
+
+**Desarrollador full stack** · Flack's Barber Shop · Oct 2022–Abr 2024
+[Flack's Cut & Connect](https://chrisssp.vercel.app/es/projects/flacks-cc) — Ecosistema digital completo automatizando el 100% de las citas.
+
+---
+
+## Proyectos
+
+[IAPEX](https://chrisssp.vercel.app/es/projects/iapex) — IA híbrida para localizar pacientes extraviados en instituciones de salud.
+[dabetai](https://chrisssp.vercel.app/es/projects/dabetai) — Plataforma preventiva que conecta wearables con supervisión médica.
+[PuntoFiel](https://chrisssp.vercel.app/es/projects/puntofiel) — Plataforma de fidelización con recompensas QR para negocios locales.
+
+---
+
+## Stack tecnológico
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
