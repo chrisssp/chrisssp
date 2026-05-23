@@ -19,20 +19,20 @@ I work from Linux, I'm obsessed with automating processes that would otherwise b
 ## Experience
 
 **Software Engineer Intern** @ Seven D Construction
-*Jan – Apr 2026 · Chicago, IL / Mexico*
+*Jan – Apr 2026 · Chicago, IL / Mexico (Remote)*
 
 - Evolved [7D-Compass](https://chrisssp.vercel.app/en/projects/7dcompass), an Angular/Node.js/PostgreSQL platform that cut financial reconciliation time by **95%** (from 12h to under 30 min/week)
 - Built a centralized audit engine that reconciled **$2.3M USD** in transactions
 - Improved frontend performance **3.2x** and hardened security with JWT/Bcrypt (OWASP)
 
-**Team Lead** @ Banco Azteca — Talent Land 2026
+**Team Lead** @ Banco Azteca — Hackathon Talent Land 2026
 *Apr 2026 · Santa Fe, CDMX*
 
 - Led [Azkali](https://chrisssp.vercel.app/en/projects/azkali) in a **48h sprint**: an AI copilot that helps Gen Z rethink impulsive spending by translating dollars into hours of work
 - Real-time impulsivity analysis with Gemini 2.5 Flash-Lite
 - Architected a React Native + Supabase ecosystem with gamification
 
-**4th Place & Team Lead** @ Coppel — Talent Land 2025
+**4th Place & Team Lead** @ Coppel — Hackathon Talent Land 2025
 *Apr 2025 · Guadalajara, Jalisco*
 
 - Built [Coppel Nexus](https://chrisssp.vercel.app/en/projects/coppel-nexus), a gamified referral platform for field acquisition teams (React Native / Node.js)
