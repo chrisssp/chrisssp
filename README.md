@@ -10,9 +10,9 @@
 
 ---
 
-Hey, I'm Christian — a Software Engineer from Mexico who builds web and mobile apps with a thing for clean backend architecture.
+I'm Christian, a Mexican software engineer who builds web and mobile products.
 
-I work from Linux, love automating processes that would otherwise be manual Excel hell, and I'm big on writing code that doesn't make the next developer cry. Outside the keyboard, you'll find me at hackathons (Talent Land is my jam), learning piano, or building unnecessarily complex redstone contraptions in Minecraft.
+I work from Linux, I'm obsessed with automating processes that would otherwise be giant Excel spreadsheets, and I write code that won't make the next developer cry. Away from the keyboard, you'll find me at hackathons, learning piano, or building absurdly complex redstone contraptions in Minecraft.
 
 ---
 
