@@ -10,35 +10,33 @@
 
 ---
 
-Soy Christian, ingeniero de software mexicano que construye productos web y móviles.
-
-Trabajo desde Linux, me obsesiona automatizar procesos que de otra forma serían exceles gigantescos y escribo código que no haga llorar al siguiente desarrollador. Fuera del teclado me encuentras en hackathones, aprendiendo piano o construyendo artefactos de redstone absurdamente complejos en Minecraft.
+Enfocado en la construcción de ecosistemas web y móviles eficientes. Conocimiento operando en entornos Linux, priorizando la escalabilidad, el código limpio y el rendimiento. Orientado a traducir requerimientos de negocio en arquitecturas mantenibles mediante automatización de procesos y flujos de desarrollo aumentados por IA.
 
 ---
 
 ## Experiencia
 
-**Ingeniero de software intern** @ Seven D Construction
-*Ene – Abr 2026 · Chicago, IL / México (Remoto)*
+**Ingeniero de software** @ Seven D Construction
+*Ene – May 2026 · Chicago, IL / México (Remoto)*
 
 - Evolucioné [7D-Compass](https://chrisssp.vercel.app/es/projects/7dcompass), plataforma Angular/Node.js/PostgreSQL que redujo la conciliación financiera en **95%** (de 12h a menos de 30 min/semana)
-- Construí un motor de auditoría centralizado que concilió **$2.3M USD** en transacciones
+- Construí un motor de auditoría centralizado que concilió **$5.5M USD** en transacciones
 - Mejoré el rendimiento del frontend **3.2x** y reforcé seguridad con JWT/Bcrypt (OWASP)
 
-**Líder de equipo** @ Banco Azteca — Hackathon Talent Land 2026
+**Líder de equipo** @ Banco Azteca (Genius Arena Hackathon — Talent Land 2026)
 *Abr 2026 · Santa Fe, CDMX*
 
 - Lideré [Azkali](https://chrisssp.vercel.app/es/projects/azkali) en un sprint de **48h**: un copiloto de IA que ayuda a la Gen Z a repensar sus gastos impulsivos traduciendo pesos en horas de trabajo
 - Análisis de impulsividad en tiempo real con Gemini 2.5 Flash-Lite
 - Arquitecté un ecosistema React Native + Supabase con gamificación
 
-**4.º lugar y líder de equipo** @ Coppel — Hackathon Talent Land 2025
+**4.º lugar y líder de equipo** @ Coppel (Genius Arena Hackathon — Talent Land 2025)
 *Abr 2025 · Guadalajara, Jalisco*
 
 - Construí [Coppel Nexus](https://chrisssp.vercel.app/es/projects/coppel-nexus), plataforma gamificada de referidos para equipos de adquisición en campo (React Native / Node.js)
 - Entregamos en 72h con XP y Kanban
 
-**Ingeniero de software intern** @ PepsiCo
+**Desarrollador de software** @ PepsiCo
 *May – Ago 2024 · Azcapotzalco, CDMX (Remoto)*
 
 - Reemplacé flujos legacy en Excel con [MTRPA](https://chrisssp.vercel.app/es/projects/mtrpa), una web app Angular/MongoDB
@@ -50,13 +48,13 @@ Trabajo desde Linux, me obsesiona automatizar procesos que de otra forma serían
 
 - Lancé [Flack's Cut & Connect](https://chrisssp.vercel.app/es/projects/flacks-cc), un ecosistema web + móvil completo
 - **100% de las citas** pasaron de llamadas telefónicas a agendamiento automatizado
-- Construí una API REST Node.js/PostgreSQL para inventario y ventas
+- Construí una API REST Spring Boot/PostgreSQL para inventario y ventas
 
 ---
 
 ## Proyectos
 
-- **[IAPEX](https://chrisssp.vercel.app/es/projects/iapex)** — IA híbrida para localizar pacientes extraviados fusionando reconocimiento facial con búsqueda textual. Angular, Ionic, Spring Boot, Django, PostgreSQL.
+- **[IAPEX (Encuéntrame)](https://chrisssp.vercel.app/es/projects/iapex)** — IA híbrida para localizar pacientes extraviados fusionando reconocimiento facial con búsqueda textual. Angular, Ionic, Spring Boot, Django, PostgreSQL.
 - **[dabetai](https://chrisssp.vercel.app/es/projects/dabetai)** — Plataforma preventiva de diabetes conectada a wearables. Predice retinopatía y nefropatía en tiempo real. React Native, NestJS, FastAPI, Python.
 - **[PuntoFiel](https://chrisssp.vercel.app/es/projects/puntofiel)** — Plataforma de fidelización QR para negocios locales. Clientes ganan recompensas, dueños administran personal y promociones. React Native, Expo, Supabase (RLS), TanStack Query.
 
