@@ -10,9 +10,7 @@
 
 ---
 
-I'm Christian, a Mexican software engineer who builds web and mobile products.
-
-I work from Linux, I'm obsessed with automating processes that would otherwise be giant Excel spreadsheets, and I write code that won't make the next developer cry.
+Focused on building efficient web and mobile ecosystems. Experienced in Linux environments, prioritizing scalability, clean code, and performance. Translates business requirements into maintainable architectures through process automation and AI-augmented development workflows.
 
 ---
 
@@ -50,7 +48,7 @@ I work from Linux, I'm obsessed with automating processes that would otherwise b
 
 - Shipped [Flack's Cut & Connect](https://chrisssp.vercel.app/en/projects/flacks-cc), a full web + mobile ecosystem
 - **100% of appointments** moved from phone calls to automated scheduling
-- Built a Node.js/PostgreSQL REST API for inventory and sales
+- Built a Spring Boot/PostgreSQL REST API for inventory and sales
 
 ---
 
