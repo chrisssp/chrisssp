@@ -19,34 +19,34 @@ Focused on building efficient web and mobile ecosystems. Experienced in Linux en
 **Software Engineer** @ Seven D Construction
 *Jan – May 2026 · Chicago, IL / Mexico (Remote)*
 
-- Evolved [7D-Compass](https://chrisssp.vercel.app/en/projects/7dcompass), an Angular/Node.js/PostgreSQL platform that cut financial reconciliation time by **95%** (from 12h to under 30 min/week)
+- Evolved [7D-Compass](https://chrisssp.me/en/projects/7dcompass), an Angular/Node.js/PostgreSQL platform that cut financial reconciliation time by **95%** (from 12h to under 30 min/week)
 - Built a centralized audit engine that reconciled **$5.5M USD** in transactions
 - Improved frontend performance **3.2x** and hardened security with JWT/Bcrypt (OWASP)
 
 **Participant & Team Lead** @ Banco Azteca (Genius Arena Hackathon — Talent Land 2026)
 *Apr 2026 · Santa Fe, CDMX*
 
-- Led [Azkali](https://chrisssp.vercel.app/en/projects/azkali) in a **48h sprint**: an AI copilot that helps Gen Z rethink impulsive spending by translating dollars into hours of work
+- Led [Azkali](https://chrisssp.me/en/projects/azkali) in a **48h sprint**: an AI copilot that helps Gen Z rethink impulsive spending by translating dollars into hours of work
 - Real-time impulsivity analysis with Gemini 2.5 Flash-Lite
 - Architected a React Native + Supabase ecosystem with gamification
 
 **4th Place & Team Lead** @ Coppel (Genius Arena Hackathon — Talent Land 2025)
 *Apr 2025 · Guadalajara, Jalisco*
 
-- Built [Coppel Nexus](https://chrisssp.vercel.app/en/projects/coppel-nexus), a gamified referral platform for field acquisition teams (React Native / Node.js)
+- Built [Coppel Nexus](https://chrisssp.me/en/projects/coppel-nexus), a gamified referral platform for field acquisition teams (React Native / Node.js)
 - Shipped in 72h running XP and Kanban
 
 **Software Developer** @ PepsiCo
 *May – Aug 2024 · Azcapotzalco, CDMX (Remote)*
 
-- Replaced legacy Excel workflows with [MTRPA](https://chrisssp.vercel.app/en/projects/mtrpa), an Angular/MongoDB web app
+- Replaced legacy Excel workflows with [MTRPA](https://chrisssp.me/en/projects/mtrpa), an Angular/MongoDB web app
 - Automated **+100k records** — zero manual errors
 - Cut processing time by **70%**
 
 **Full Stack Developer (Freelance)** @ Flack's Barber Shop
 *Oct 2022 – Apr 2024 · Córdoba, Veracruz*
 
-- Shipped [Flack's Cut & Connect](https://chrisssp.vercel.app/en/projects/flacks-cc), a full web + mobile ecosystem
+- Shipped [Flack's Cut & Connect](https://chrisssp.me/en/projects/flacks-cc), a full web + mobile ecosystem
 - **100% of appointments** moved from phone calls to automated scheduling
 - Built a Spring Boot/PostgreSQL REST API for inventory and sales
 
@@ -54,9 +54,9 @@ Focused on building efficient web and mobile ecosystems. Experienced in Linux en
 
 ## Projects
 
-- **[IAPEX (Encuéntrame)](https://chrisssp.vercel.app/en/projects/iapex)** — Hybrid AI that helps hospitals locate missing patients by fusing facial recognition with text-based search. Angular, Ionic, Spring Boot, Django, PostgreSQL.
-- **[dabetai](https://chrisssp.vercel.app/en/projects/dabetai)** — Wearable-connected diabetes platform. Predicts retinopathy and nephropathy risks in real time. React Native, NestJS, FastAPI, Python.
-- **[PuntoFiel](https://chrisssp.vercel.app/en/projects/puntofiel)** — QR loyalty platform for local businesses. Customers earn rewards, owners manage staff and promotions. React Native, Expo, Supabase (RLS), TanStack Query.
+- **[IAPEX (Encuéntrame)](https://chrisssp.me/en/projects/iapex)** — Hybrid AI that helps hospitals locate missing patients by fusing facial recognition with text-based search. Angular, Ionic, Spring Boot, Django, PostgreSQL.
+- **[dabetai](https://chrisssp.me/en/projects/dabetai)** — Wearable-connected diabetes platform. Predicts retinopathy and nephropathy risks in real time. React Native, NestJS, FastAPI, Python.
+- **[PuntoFiel](https://chrisssp.me/en/projects/puntofiel)** — QR loyalty platform for local businesses. Customers earn rewards, owners manage staff and promotions. React Native, Expo, Supabase (RLS), TanStack Query.
 
 ---
 
