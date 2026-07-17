@@ -19,34 +19,34 @@ Enfocado en la construcción de ecosistemas web y móviles eficientes. Conocimie
 **Ingeniero de software** @ Seven D Construction
 *Ene – May 2026 · Chicago, IL / México (Remoto)*
 
-- Evolucioné [7D-Compass](https://chrisssp.vercel.app/es/projects/7dcompass), plataforma Angular/Node.js/PostgreSQL que redujo la conciliación financiera en **95%** (de 12h a menos de 30 min/semana)
+- Evolucioné [7D-Compass](https://chrisssp.me/es/projects/7dcompass), plataforma Angular/Node.js/PostgreSQL que redujo la conciliación financiera en **95%** (de 12h a menos de 30 min/semana)
 - Construí un motor de auditoría centralizado que concilió **$5.5M USD** en transacciones
 - Mejoré el rendimiento del frontend **3.2x** y reforcé seguridad con JWT/Bcrypt (OWASP)
 
 **Líder de equipo** @ Banco Azteca (Genius Arena Hackathon — Talent Land 2026)
 *Abr 2026 · Santa Fe, CDMX*
 
-- Lideré [Azkali](https://chrisssp.vercel.app/es/projects/azkali) en un sprint de **48h**: un copiloto de IA que ayuda a la Gen Z a repensar sus gastos impulsivos traduciendo pesos en horas de trabajo
+- Lideré [Azkali](https://chrisssp.me/es/projects/azkali) en un sprint de **48h**: un copiloto de IA que ayuda a la Gen Z a repensar sus gastos impulsivos traduciendo pesos en horas de trabajo
 - Análisis de impulsividad en tiempo real con Gemini 2.5 Flash-Lite
 - Arquitecté un ecosistema React Native + Supabase con gamificación
 
 **4.º lugar y líder de equipo** @ Coppel (Genius Arena Hackathon — Talent Land 2025)
 *Abr 2025 · Guadalajara, Jalisco*
 
-- Construí [Coppel Nexus](https://chrisssp.vercel.app/es/projects/coppel-nexus), plataforma gamificada de referidos para equipos de adquisición en campo (React Native / Node.js)
+- Construí [Coppel Nexus](https://chrisssp.me/es/projects/coppel-nexus), plataforma gamificada de referidos para equipos de adquisición en campo (React Native / Node.js)
 - Entregamos en 72h con XP y Kanban
 
 **Desarrollador de software** @ PepsiCo
 *May – Ago 2024 · Azcapotzalco, CDMX (Remoto)*
 
-- Reemplacé flujos legacy en Excel con [MTRPA](https://chrisssp.vercel.app/es/projects/mtrpa), una web app Angular/MongoDB
+- Reemplacé flujos legacy en Excel con [MTRPA](https://chrisssp.me/es/projects/mtrpa), una web app Angular/MongoDB
 - Procesé **+100k registros** automatizados — cero errores manuales
 - Reduje el tiempo de procesamiento en **70%**
 
 **Desarrollador full stack (Freelance)** @ Flack's Barber Shop
 *Oct 2022 – Abr 2024 · Córdoba, Veracruz*
 
-- Lancé [Flack's Cut & Connect](https://chrisssp.vercel.app/es/projects/flacks-cc), un ecosistema web + móvil completo
+- Lancé [Flack's Cut & Connect](https://chrisssp.me/es/projects/flacks-cc), un ecosistema web + móvil completo
 - **100% de las citas** pasaron de llamadas telefónicas a agendamiento automatizado
 - Construí una API REST Spring Boot/PostgreSQL para inventario y ventas
 
@@ -54,9 +54,9 @@ Enfocado en la construcción de ecosistemas web y móviles eficientes. Conocimie
 
 ## Proyectos
 
-- **[IAPEX (Encuéntrame)](https://chrisssp.vercel.app/es/projects/iapex)** — IA híbrida para localizar pacientes extraviados fusionando reconocimiento facial con búsqueda textual. Angular, Ionic, Spring Boot, Django, PostgreSQL.
-- **[dabetai](https://chrisssp.vercel.app/es/projects/dabetai)** — Plataforma preventiva de diabetes conectada a wearables. Predice retinopatía y nefropatía en tiempo real. React Native, NestJS, FastAPI, Python.
-- **[PuntoFiel](https://chrisssp.vercel.app/es/projects/puntofiel)** — Plataforma de fidelización QR para negocios locales. Clientes ganan recompensas, dueños administran personal y promociones. React Native, Expo, Supabase (RLS), TanStack Query.
+- **[IAPEX (Encuéntrame)](https://chrisssp.me/es/projects/iapex)** — IA híbrida para localizar pacientes extraviados fusionando reconocimiento facial con búsqueda textual. Angular, Ionic, Spring Boot, Django, PostgreSQL.
+- **[dabetai](https://chrisssp.me/es/projects/dabetai)** — Plataforma preventiva de diabetes conectada a wearables. Predice retinopatía y nefropatía en tiempo real. React Native, NestJS, FastAPI, Python.
+- **[PuntoFiel](https://chrisssp.me/es/projects/puntofiel)** — Plataforma de fidelización QR para negocios locales. Clientes ganan recompensas, dueños administran personal y promociones. React Native, Expo, Supabase (RLS), TanStack Query.
 
 ---
 
